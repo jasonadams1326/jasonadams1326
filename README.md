@@ -1,5 +1,6 @@
 ### Hi there, I'm Jason Adams
 
+I'm a full stack web developer who is passionate about creating a great user experience and the intersection of technology and mental health. Feel free to reach out to me on Linkedin! 
 <!--
 **jasonadams1326/jasonadams1326** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
