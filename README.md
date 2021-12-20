@@ -1,6 +1,6 @@
 ### Hi there, I'm Jason Adams
 
-I'm a full stack web developer who is passionate about creating a great user experience and the intersection of technology and mental health. Feel free to reach out to me on Linkedin! 
+I’m passionate about software because I love the combination of problem solving and creative expression. After serving in the Army, I was looking for something that would challenge me and allow me to continue to make a difference in people’s lives. As a veteran, I’m particularly interested in the intersection of technology and mental health and I’m currently building mental health treatment applications in my spare time.  If you’re looking for a passionate front end/full stack developer, or if you too are interested in using technology to improve mental health, feel free to connect!
 <!--
 **jasonadams1326/jasonadams1326** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
