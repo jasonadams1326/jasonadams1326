@@ -4,7 +4,7 @@ I’m passionate about software because I love the combination of problem solvin
   
 TECHNICAL SKILLS:
 Front End | JavaScript (ES5 and ES6), React, HTML5, CSS3, Axios
-Back End | Node, Express, PostgreSQL, MongoDB, MySQL
+<div>Back End | Node, Express, PostgreSQL, MongoDB, MySQL</div>
 Testing/Deployment | AWS EC2, Mocha, Chai, Jest, Artillery.io, Loader.io
 Developer Tools | Git, npm, Webpack, Babel, VSCode, Vim, Agile Methodology
 <!--
