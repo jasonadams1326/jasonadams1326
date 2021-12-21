@@ -4,6 +4,12 @@ I’m passionate about software because I love the combination of problem solvin
 
 <Technologies> 
   React
+  
+  
+  Languages & Tools
+JavaScript React HTML CSS Storybook Jest Git VSCode
+
+Apex Node Express MySQL PostgreSQL MongoDB webpack
 <!--
 **jasonadams1326/jasonadams1326** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
