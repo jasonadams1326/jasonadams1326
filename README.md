@@ -1,6 +1,6 @@
 ### Hi there, I'm Jason Adams
 
-I’m passionate about software because I love the combination of logiccal problem solving and creative expression.
+I’m passionate about software because I love the combination of logical problem solving and creative expression.
   
 <div>TECHNICAL SKILLS:</div>
 <div>Front End | JavaScript, TypeScript, React, Redux, HTML5, CSS3</div>
