@@ -1,11 +1,13 @@
 ### Hi there, I'm Jason Adams
 
 I’m passionate about software because I love the combination of logical problem solving and creative expression.
+
+I'm committing on Azure these days (since May 2022), so like, don't even judge, like, geez...lol.
   
 <div>TECHNICAL SKILLS:</div>
-<div>Front End | JavaScript, TypeScript, React, Redux, GraphQL, HTML5, CSS3</div>
-<div>Back End | Node, Express, Next, MongoDB, Apollo GraphQL, PostgreSQL, MySQL</div>
-<div>Testing/Deployment | AWS EC2, Mocha, Chai, Jest, Loader.io</div>
+<div>Front End | JavaScript, TypeScript, React, Redux, HTML5, CSS3</div>
+<div>Back End | Node, Express, MongoDB, PostgreSQL, MySQL</div>
+<div>Testing/Deployment | Azure, AWS EC2, Jest, React Testing Library, Mocha, Chai, Loader.io</div>
 <!--
 **jasonadams1326/jasonadams1326** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
