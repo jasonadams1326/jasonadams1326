@@ -7,7 +7,7 @@ I'm committing on Azure these days (since May 2022).
 <div>TECHNICAL SKILLS:</div>
 <div>Front End | JavaScript, TypeScript, React, Redux, HTML5, CSS3</div>
 <div>Back End | Node, Express, MongoDB, PostgreSQL, MySQL</div>
-<div>Testing/Deployment | Azure, AWS EC2, Jest, React Testing Library, Mocha, Chai, Loader.io</div>
+<div>Testing/Deployment | Azure, AWS EC2, Jest, React Testing Library, Mocha, Chai</div>
 <!--
 **jasonadams1326/jasonadams1326** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
