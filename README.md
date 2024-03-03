@@ -2,7 +2,7 @@
 
 I’m passionate about software because I love the combination of logical problem solving and creative expression.
 
-I'm committing on Azure these days (since May 2022), so like, don't even judge, like, geez...lol.
+I'm committing on Azure these days (since May 2022).
   
 <div>TECHNICAL SKILLS:</div>
 <div>Front End | JavaScript, TypeScript, React, Redux, HTML5, CSS3</div>
