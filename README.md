@@ -2,12 +2,12 @@
 
 I’m passionate about software because I love the combination of logical problem solving and creative expression.
 
-I'm committing on Azure these days (since May 2022).
+I'm mostly committing on Azure these days (since May 2022).
   
 <div>TECHNICAL SKILLS:</div>
 <div>Front End | JavaScript, TypeScript, React, Redux, HTML5, CSS3</div>
 <div>Back End | Node, Express, MongoDB, PostgreSQL, MySQL</div>
-<div>Testing/Deployment | Azure, AWS EC2, Jest, React Testing Library, Mocha, Chai</div>
+<div>Testing | React Testing Library, Jest, Mocha, Chai</div>
 <!--
 **jasonadams1326/jasonadams1326** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
